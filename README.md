@@ -12,7 +12,8 @@ It is a kind of booking app where user can register or login and booking any hos
 
 # run frontend
 1). go to client folder
-2). run "npm run dev" command in the terminal
+2). type npm install vite --save-dev
+3). run "npm run dev" command in the terminal
 
 # youtube video link
 https://www.youtube.com/watch?v=Om2OluTQNKQ&ab_channel=MihirKumar
